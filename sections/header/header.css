@@ -33,6 +33,7 @@ a {
   color: #000000
 }
 
-a:hover {
+a:hover,
+.bigHead:hover {
   color: #3c3c3c
 }
